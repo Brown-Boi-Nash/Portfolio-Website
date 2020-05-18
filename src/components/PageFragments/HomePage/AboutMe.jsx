@@ -7,10 +7,11 @@ import SEO from '../../Seo';
 const pageText = {
   paraOne: `Hello !! My name is Nishan Shyamsunder Shetty. I'm a full stack web developer who is
     passionate about various web technologies. I like to experiment with different web
-    technologies. I am learning the MERN stack at the present. Building fancy UI's just like this one that your seeing 😅 is what i love.
-    Check my blog which I update every week for some cool geeky works on web technology`,
-  paraTwo: `Currently I work mostly with Javascript technologies like ReactJS and NodeJS.
-            I'm always a learner and a self taught programmer.`,
+    technologies. I am learning the MERN stack at the present. Building fancy UI's just like this one that you're seeing 😅 is what i love.
+    Check my blog which I update every week for some cool geeky works on web technology.`,
+  paraTwo: `Currently I work mostly with Javascript and python technologies like ReactJS, NodeJS and python modules.
+            Working on my college project right now!!!I'm always a learner and a self taught programmer.
+            Use the contact section to know more about me and to communicate any queries.`,
 };
 const AboutMe = () => {
   const description = `${pageText.paraOne} ${stripTags(pageText.paraTwo)}`;
