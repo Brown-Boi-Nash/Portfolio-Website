@@ -1,10 +1,10 @@
 ---
 title: "Hello World - Nishan's first blog 😇"
-path: blog/hello-world-rolwins-first-blog
+path: blog/hello-world-nishan-first-blog
 tags: [javascript, html,css]
-cover: ./rolwin.jpg
-date: 2018-12-20
-excerpt: Blogging and writing about tech stacks is always been my thing. I like to experiment with different technologies and write my views on them. Web technologies has always been my passion. Check my blog for codebits on various web technologies.
+cover: ./helloworld.jpg
+date: 2020-05-18
+excerpt: First stepping stone for a longer path.
 ---
 
-Hello World 🌎 - I would like to talk 🔈 about my self in this article. Let's start this journey together. My name is Rolwin and I'm a full-stack web developer 🕸️. 
+Hello World 🌎 - I would like to talk 🔈 about my self in this article. Let's start this journey together. Blog will be updated soon 🕸️. 
