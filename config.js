@@ -21,7 +21,7 @@ module.exports = {
     rss: '/rss.xml',
   },
   contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/482877c9-be80-4c8a-a43b-12aae7b29116',
-  googleAnalyticTrackingId: process.env.GA_TRACKING_ID || 'https://www.googletagmanager.com/gtag/js?id=UA-166883726-1',
+  googleAnalyticTrackingId: process.env.GA_TRACKING_ID || 'none',
   tags: {
     angular: {
       description: 'Angular is an open source web application platform.',
