@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: '',
-  siteUrl: 'https://rolwinreevan.com',
-  siteTitle: 'Rolwin Reevan',
-  siteDescription: 'Logbook of a software developer',
-  author: 'Rolwin Reevan',
+  siteUrl: 'https://nishanshetty.com',
+  siteTitle: 'Nishan Shetty ',
+  siteDescription: 'Logbook of a student',
+  author: 'Nishan Shetty',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
   pages: {
@@ -14,13 +14,13 @@ module.exports = {
     tag: 'tags',
   },
   social: {
-    github: 'https://github.com/rolwin100',
-    facebook: 'https://www.facebook.com/rolwin.monteiro',
-    twitter: 'https://twitter.com/rolwin100',
-    instagram: 'https://www.instagram.com/reevan100/',
+    github: 'https://github.com/Brown-Boi-Nash',
+    facebook: 'https://www.facebook.com/nishan.ironman98/',
+    twitter: 'https://twitter.com/iam_nishan',
+    instagram: 'https://www.instagram.com/get_to_nishan/',
     rss: '/rss.xml',
   },
-  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
+  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/482877c9-be80-4c8a-a43b-12aae7b29116',
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
   tags: {
     angular: {
