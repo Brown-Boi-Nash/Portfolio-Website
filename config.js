@@ -18,6 +18,7 @@ module.exports = {
     facebook: 'https://www.facebook.com/nishan.ironman98/',
     twitter: 'https://twitter.com/iam_nishan',
     instagram: 'https://www.instagram.com/get_to_nishan/',
+    dev: 'https://dev.to/brownboinash',
     rss: '/rss.xml',
   },
   contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/482877c9-be80-4c8a-a43b-12aae7b29116',
